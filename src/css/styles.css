@@ -123,15 +123,12 @@ img {
 }
 
 .hidden {
-  display: none; /* Клас для приховування елементів */
+  display: none;
 }
-
 
 .loader{
   display: none;
- 
 }
-
 
 .loader.visible{
   margin: 0 auto;
